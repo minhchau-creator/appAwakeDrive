@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appAwakeDrive</string>
+    <string name="login_with_apple">Đăng nhập bằng Apple</string>
+    <string name="login_with_facebook">Đăng nhập bằng Facebook</string>
+    <string name="login_with_google">Đăng nhập bằng Google</string>
+    <string name="loginButton">Nút Login</string>
+</resources>
